@@ -1,4 +1,4 @@
-# File-Hash-Malicious
+# File Hash Malicious
 
 **The file hash has been reported as malicious by over 50 vendors. Upon further investigation, this file hash is known as the malware Flagpro, which has been commonly used by the advanced threat actor BlackTech.**
 
